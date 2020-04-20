@@ -16,6 +16,7 @@ Supported Python version
       Pandas 0.18.0
       Numpy 1.10.4
       Matplotlib 1.5.1
+      Seaborn 0.8.0
 
 # Code
 The code used in this project is inside Zomato_analyses.ipynb.
